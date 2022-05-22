@@ -229,7 +229,7 @@ const generateHTML = () => {
 <body>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-12 jumbotron mb-3 team-heading">
+            <div class="col-4 jumbotron mb-3 team-heading">
                 <h1 class="text-center">Team Generator</h1>
             </div>
         </div>
@@ -269,7 +269,7 @@ const generateIntern = (intern) => {
 const generateEng = (engineer) => {
     return `<div class="container mb-3 card-custom shadow-lg border-primary rounded">
     <div class="row">
-        <div class="team-area col-12 d-flex justify-content-center">
+        <div class="team-area col-4 d-flex justify-content-center">
             <h2 class="engineer">Engineer
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-alien" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -295,7 +295,7 @@ const generateEng = (engineer) => {
 const generateMgr = (manager) => {
     return `<div class="container mb-3 card-custom shadow-lg border-primary rounded">
     <div class="row">
-        <div class="team-area col-12 d-flex justify-content-center">
+        <div class="team-area col-4 d-flex justify-content-center">
             <h2 class="manager">Manager
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-drone" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
