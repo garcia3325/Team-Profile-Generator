@@ -30,3 +30,4 @@ Tests were conducted through jestjs.io
 This project is licensed under the MIT License - see the License page.
 
 ## Video
+https://drive.google.com/file/d/1QL4dJMcjp1iupWE1G1caMPOpZ64KKjss/view
