@@ -1,4 +1,4 @@
-//dependencies
+//Dependencies
 const Intern = require('../lib/intern');
 
 //initialize testing

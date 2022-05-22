@@ -1,4 +1,4 @@
-// dependencies
+// Dependencies
 const Manager = require('../lib/manager');
 
 //initialize testing
@@ -9,7 +9,7 @@ describe("Manager", () => {
         it("should initiate an object", () => {
             const obj = new Manager();
             //We expect 'result' to equal object
-            expect(typeof(obj)).toEqual("object");
+            expect(typeof(obj)).toEqual("object");/garcia3325/Team-Profile-Generator/commits/main/__tests__
         });
     });
      //create test for school object

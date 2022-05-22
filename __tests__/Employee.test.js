@@ -1,4 +1,4 @@
-// dependencies
+// Dependencies
 const Employee = require('../lib/employee');
 
 
